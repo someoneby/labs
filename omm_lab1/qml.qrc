@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainWindowPage.qml</file>
+        <file>TrajectoryPage.qml</file>
+    </qresource>
+</RCC>
